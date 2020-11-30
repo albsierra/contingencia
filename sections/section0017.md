@@ -14,7 +14,7 @@ de Prevención de Riesgos Laborales.
 
  
 
-[Mascarillas: ]{.span10}
+[Mascarillas: ]
 
 [El centro dispondrá de mascarillas para el profesorado y personal del
 centro. La mascarilla higiénica, a ser posible reutilizable, es la
